@@ -1,0 +1,7 @@
+echo "# Laborat-rio-de-metanfetamina" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/Neymarjdjkdjei/Laborat-rio-de-metanfetamina.git
+ git push -u origin main
